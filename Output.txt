@@ -1,0 +1,2 @@
+Enter the Armstrong Number :370
+The Entered Number is a Armstrong Number.
